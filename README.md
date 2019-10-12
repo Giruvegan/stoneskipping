@@ -1,11 +1,14 @@
 # StoneSkipping
 
-This is the implementation of the Stoneskipping model for Chinese spam detection from paper "Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation". 
+This is the repo of paper "Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation" which accepted by EMNLP 2019. http://arxiv.org/abs/1908.11561. Since the dataset and code involved in this paper belong to Alibaba Group, due to data privacy, this repo only publishes the CCHIN(Chinese Character Heterogeneous Information Network) and Taobao review spam dataset.
 
 ## Cite the paper
 
 ```
-Zhuoren Jiang, Zhe Gao, Guoxiu He, Yangyang Kang, Changlong Sun, Qiong Zhang, Luo Si, Xiaozhong Liu. 2019.
-Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation.
-In EMNLP ’19
+@article{jiang2019detect,
+  title={Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation},
+  author={Jiang, Zhuoren and Gao, Zhe and He, Guoxiu and Kang, Yangyang and Sun, Changlong and Zhang, Qiong and Si, Luo and Liu, Xiaozhong},
+  journal={arXiv preprint arXiv:1908.11561},
+  year={2019}
+}
 ```
