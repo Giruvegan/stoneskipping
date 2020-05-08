@@ -2,6 +2,9 @@
 
 This is the repo of paper "Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation" which accepted by EMNLP 2019. http://arxiv.org/abs/1908.11561. Since the dataset and code involved in this paper belong to Alibaba Group, due to data privacy, this repo only publishes the CCHIN(Chinese Character Heterogeneous Information Network) and Taobao review spam dataset.
 
+![](/paper/ss_framework.jpg)
+
+
 ## Cite the paper
 
 ```
